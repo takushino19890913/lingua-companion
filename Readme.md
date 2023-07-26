@@ -1,5 +1,6 @@
 # 目次
 ## tailwind-rnについて
+
 ## React native navigationについて
 - Root Navigatorで全体を管理していて、Firebaseと連携し、user認証がされている状態でのみ、Mainページ(MainStackNavigator)を表示している。それ以外はログインページを表示。
 ```tsx
